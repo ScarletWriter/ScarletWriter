@@ -8,6 +8,14 @@
   - MSTP and STE  
 - **Software Development Life Cycle** (SDLC)  
 - **Document Development Life Cycle** (DDLC)  
-- **Markup Languages**: XML  
+- **Markup Languages**: XML, HTML, Markup  
 - **Writing & Editing**: Instruction Writing, Proofreading, Critical Thinking
-
+## Tools & Technologies
+- **Authoring Tools**:  
+  - Confluence  
+  - Oxygen XML Editor  
+  - Arbotext Editor  
+- **Graphics Tools**:  
+  - MS Paint  
+  - Greenshot  
+  - Snipping Tool  
