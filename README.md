@@ -1,21 +1,17 @@
-# Hello Falks  
-##**Technical Writer | Documentation Specialist** 🖋🖋🖋
-## i am having above 2.9 years of experience in creating clear, user-friendly documentation for software products. Proficient in developing **user manuals**, **installation guides**, and **quick-start guides** utilizing DITA, S1000D, and agile methodologies. Strong background in collaborating with cross-functional teams to ensure technical accuracy and timely project completion.
-## Skills
-- **Authoring Standards & Frameworks**:  
-  - DITA  
-  - S1000D  
-  - MSTP and STE  
-- **Software Development Life Cycle** (SDLC)  
-- **Document Development Life Cycle** (DDLC)  
-- **Markup Languages**: XML, HTML, Markup  
-- **Writing & Editing**: Instruction Writing, Proofreading, Critical Thinking
-## Tools & Technologies
-- **Authoring Tools**:  
-  - Confluence  
-  - Oxygen XML Editor  
-  - Arbotext Editor  
-- **Graphics Tools**:  
-  - MS Paint  
-  - Greenshot  
-  - Snipping Tool  
+# 👩‍💻 Prajakta C. Ghonmode 
+**Technical Writer | Information Developer** 
+## 📘 About Me  
+Hello! I'm Passionate **Technical Writer** with 2+ years of experience in creating clear, concise, and user friendly documentation. It help users to understand complex information easily.
+### 🎯 key Highlights
+- 📚 **End-to end documentation** for products & System.
+- 🖋️ Proficient in ** structured authouring** with **DITA XML**.
+- 🔄 Consistent with **MSTP** and **STE** Guidlines.
+- 🤝 Strong collaboration with **cross-functional teams**.
+- 🏢 Hands-on experience in **content planning, creation, and publishing**
+ ## 🛠️ Tool Proficiency
+
+| Category             | Tools                                                            |
+|----------------------|------------------------------------------------------------------|
+| ✍️ Authoring Tools    | Confluence, Oxygen XML Editor, Arbortext Editor                 |
+| 🖼️ Visual Tools       | Greenshot, Snagit, Snipping Tool                                |
+| 📊 Project Management | Jira, SAP                                                       |
