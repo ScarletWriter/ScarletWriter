@@ -35,6 +35,6 @@ Hello! I'm passionate **Technical Writer** with 2+ years of experience in creati
  **📍 Location:** Bengaluru, India  
  **📱 Phone:** +91 96234 63495  
  **🌐 Languages Known:** English, Hindi, Marathi *(Read, Write, and Speak)*
+ ######                   *Thanku for visiting my portfolio*
 
-                                                 🌟 *Thanku you for visiting my portfolio*!   
--   
+   
