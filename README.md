@@ -3,18 +3,18 @@
 ## 📘 About Me  
 Hello! I'm passionate **Technical Writer** with 2+ years of experience in creating clear, concise, and user friendly documentation. It help users to understand complex information easily.
 ### 🎯 key Highlights
-- 📚 **End-to end documentation** for products & System.
-- 🖋️ Proficient in **Structured authouring** with **DITA XML** and **Simplified Technical English (STE)**.
-- 🔄 Consistent with **MSTP** and **STE** Guidlines.
-- 🤝 Strong collaboration with **Cross-functional teams**.
-- 🏢 Hands-on experience in **Content planning, creation, Editing and publishing**.
+   **End-to end documentation** for products & System.
+-  Proficient in **Structured authouring** with **DITA XML** and **Simplified Technical English (STE)**.
+-  Consistent with **MSTP** and **STE** Guidlines.
+-  Strong collaboration with **Cross-functional teams**.
+-  Hands-on experience in **Content planning, creation, Editing and publishing**.
  #### 🛠️ Tool Proficiency
 
 | Category             | Tools                                                                    |
 |----------------------|--------------------------------------------------------------------------|
-| ✍️ Authoring Tools    | Confluence, Oxygen XML Editor, Arbortext Editor                        |
-| 🖼️ Visual Tools       | Greenshot, Snagit, Snipping Tool, Canva                                 |
-| 📊 Project Management | Jira, SAP                                                              |
+|  Authoring Tools    | Confluence, Oxygen XML Editor, Arbortext Editor                        |
+|  Visual Tools       | Greenshot, Snagit, Snipping Tool, Canva                                 |
+|  Project Management | Jira, SAP                                                              |
 ##### 📝 Documentation Specialties
 - **Quick start Guide**
 - **User Manual**
@@ -31,10 +31,10 @@ Hello! I'm passionate **Technical Writer** with 2+ years of experience in creati
    - Proficient at managing multiple project and tight deadlines.
    - Quick leaner, adaptive, and collaborative.
  ###### **📞 Contact Information**-
- **📧 Email:** [prajakta7800@gmail.com](mailto:prajakta7800@gmail.com)  
- **📍 Location:** Bengaluru, India  
- **📱 Phone:** +91 96234 63495  
- **🌐 Languages Known:** English, Hindi, Marathi *(Read, Write, and Speak)*
+ **Email:** [prajakta7800@gmail.com](mailto:prajakta7800@gmail.com)  
+ **Location:** Bengaluru, India  
+ **Phone:** +91 96234 63495  
+ **Languages Known:** English, Hindi, Marathi *(Read, Write, and Speak)*
  ######                   *Thanku for visiting my portfolio*
 
 
