@@ -29,6 +29,11 @@ o	Enhanced performance for media uploads and downloads.
 o	Improved call quality and stability on low bandwidth connections.  
 o	Updated user interface for a more consistent experience across devices  
 o	Improved accessibility support for screen readers.  
+#### Bug Fixes  
+	Fixed an issue where status updates failed to load for some users.  
+	Resolved a bug that caused app to crash on android devices.  
+	Corrected a problem with delayed message notifications.  
+
 
 
  
