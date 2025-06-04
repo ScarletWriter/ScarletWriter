@@ -18,8 +18,9 @@ Protect your account with **passkeys**, which uses biometric authentication such
    
       -**Everyone**  
   	   -**Same as Last seen**
-8.	 This setting hide your activity from particular people while seeing the onlins status of others, based on your preferences.
-9.	 Note: if you don’t share your last seen or online status you will not able to see when other people were last seen or online
+  	 
+ This setting hide your activity from particular people while seeing the onlins status of others, based on your preferences.  
+ **Note:** if you don’t share your last seen or online status you will not able to see when other people were last seen or online
 
  
 
