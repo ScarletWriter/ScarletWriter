@@ -40,5 +40,6 @@ Protect your account with **passkeys**, which uses biometric authentication such
 
  
 
+![Screenshot_20250605-145258~2](https://github.com/user-attachments/assets/095cf72e-b451-426c-802f-6af40ffb45ad)
 
 
