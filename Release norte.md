@@ -5,16 +5,6 @@
   <img src="https://github.com/user-attachments/assets/095cf72e-b451-426c-802f-6af40ffb45ad" alt="icon" width="700" height="350" />
 </div> 
 
-
-
-
-
-
-
-
-
-
-
 These new features are introduced to improve your security, privacy settings and self-expression on WhatsApp.  
 **Here is what’s new:**  
 ## 🔐 **Passkeys for Enhanced Account Security**  
