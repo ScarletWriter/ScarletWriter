@@ -2,7 +2,7 @@
 [Version 23.o]  
 {Date: June 2025}  
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/095cf72e-b451-426c-802f-6af40ffb45ad" alt="icon" width="700" height="350" />
+  <img src="https://github.com/user-attachments/assets/095cf72e-b451-426c-802f-6af40ffb45ad" alt="icon" width="800" height="400" />
 </div> 
 
 These new features are introduced to improve your security, privacy settings and self-expression on WhatsApp.  
