@@ -21,7 +21,7 @@ Hello! I'm passionate **Technical Writer** with 3 years of experience in creatin
 - **Troubleshooting Guide**
 - **API Documentation**
 - **Release Notes**
-###### 🗂️**What I DO**
+###### 🗂️**What I Do**
  1. Excellent in **planning, analysis,Research**. 
  2. Collaborate with **SMEs, developers, testers, and product managers** to gather technical inputs.
  3. Create **Technical document** for product or system.
@@ -29,13 +29,15 @@ Hello! I'm passionate **Technical Writer** with 3 years of experience in creatin
  5. Align documentation activities with **DDLC**, **SDLC**, and **Agile Methologies**.
 ###### 💡 **Strengths**
    - Proficient at managing multiple project and tight deadlines.
-   - Quick leaner, adaptive, and collaborative.
+   - Quick learner, adaptive, and collaborative.
  ###### **📞 Contact Information**-
  **Email:** [prajakta7800@gmail.com](mailto:prajakta7800@gmail.com)  
  **Location:** Bengaluru, India  
  **Phone:** +91 96234 63495  
  **Languages Known:** English, Hindi, Marathi *(Read, Write, and Speak)*
- ######                   *Thanku for visiting my portfolio*
+
+ <p align=center><em>Thank you for visiting my portfolio.</em></p>
+
 
 
    
