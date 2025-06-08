@@ -1,20 +1,20 @@
 # 👩‍💻 Prajakta C. Ghonmode 
 **Technical Writer | Information Developer** 
 ## 📘 About Me  
-Hello! I'm passionate **Technical Writer** with 2+ years of experience in creating clear, concise, and user friendly documentation. It help users to understand complex information easily.
-### 🎯 key Highlights
+Hello! I'm passionate **Technical Writer** with 3 years of experience in creating clear, concise and user friendly documentation. It help users to understand complex information easily.
+### 🎯 Key Highlights
    **End-to end documentation** for products & System.
 -  Proficient in **Structured authouring** with **DITA XML** and **Simplified Technical English (STE)**.
 -  Consistent with **MSTP** and **STE** Guidlines.
 -  Strong collaboration with **Cross-functional teams**.
--  Hands-on experience in **Content planning, creation, Editing and publishing**.
+-  Hands-on experience in **Content planning, Creation, Editing and Publishing**.
  #### 🛠️ Tool Proficiency
 
 | Category             | Tools                                                                    |
 |----------------------|--------------------------------------------------------------------------|
 |  Authoring Tools    | Confluence, Oxygen XML Editor, Arbortext Editor                        |
-|  Visual Tools       | Greenshot, Snagit, Snipping Tool, Canva                                 |
-|  Project Management | Jira, SAP                                                              |
+|  Visual Tools       | Snagit, Snipping Tool, Canva                                 |
+|  Project Management | Jira, SAP, Github                                                              |
 ##### 📝 Documentation Specialties
 - **Quick start Guide**
 - **User Manual**
@@ -22,8 +22,8 @@ Hello! I'm passionate **Technical Writer** with 2+ years of experience in creati
 - **API Documentation**
 - **Release Notes**
 ###### 🗂️**What I DO**
- 1. Excellent **planning analysis,Research**. 
- 2. Collaborate with **SMEs, developers, testers, and product managers**.to gather technical inputs.
+ 1. Excellent in **planning, analysis,Research**. 
+ 2. Collaborate with **SMEs, developers, testers, and product managers** to gather technical inputs.
  3. Create **Technical document** for product or system.
  4. Ensure technical accuracy, document versioning, and timely releases aligned with product updates.
  5. Align documentation activities with **DDLC**, **SDLC**, and **Agile Methologies**.
