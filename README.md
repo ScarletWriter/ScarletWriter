@@ -22,7 +22,7 @@ Hello! I'm passionate **Technical Writer** with 3 years of experience in creatin
 - **API Documentation**
 - **Release Notes**
 ###### 🗂️**What I Do**
- 1. Excellent in **planning, analysis,Research**. 
+ 1. Excellent in **Planning, Analysis,Research**. 
  2. Collaborate with **SMEs, developers, testers, and product managers** to gather technical inputs.
  3. Create **Technical document** for product or system.
  4. Ensure technical accuracy, document versioning, and timely releases aligned with product updates.
