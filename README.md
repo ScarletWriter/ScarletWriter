@@ -4,7 +4,7 @@
 Hello! I'm passionate **Technical Writer** with 3 years of experience in creating clear, concise and user friendly documentation. It help users to understand complex information easily.
 ### 🎯 Key Highlights
    **End-to end documentation** for products & System.
--  Proficient in **Structured authouring** with **DITA XML** and **Simplified Technical English (STE)**.
+-  Proficient in **Structured Authouring** with **DITA XML** and **Simplified Technical English (STE)**.
 -  Consistent with **MSTP** and **STE** Guidlines.
 -  Strong collaboration with **Cross-functional teams**.
 -  Hands-on experience in **Content planning, Creation, Editing and Publishing**.
