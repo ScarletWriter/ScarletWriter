@@ -35,7 +35,7 @@ Protect your account with **passkeys**, which uses biometric authentication such
   <img src="https://github.com/user-attachments/assets/70b47c8d-f97e-4a84-85fb-add59311d35e" alt="icon" width="300" height="300" />
 </div>
 
- ##### 🎵 **Add Music to Your Status**  
+ #### 🎵 **Add Music to Your Status**  
  You can Add music to your WhatsApp status update by adding music. Wheather you are sharing a moment , photo, or a message.  
  **How to use:**  
 1.	Go to **update**
@@ -45,12 +45,12 @@ Protect your account with **passkeys**, which uses biometric authentication such
   
 This feature allows you to make your updates more expressive and engaging with background music.
 
- ##### Improvement  
+ #### Improvement  
 -	Enhanced performance for media uploads and downloads.  
 -	Improved call quality and stability on low bandwidth connections.  
 -	Updated user interface for a more consistent experience across devices  
 -	Improved accessibility support for screen readers.  
-##### Bug Fixes  
+#### Bug Fixes  
 -	Fixed an issue where status updates failed to load for some users.  
 -	Resolved a bug that caused app to crash on android devices.  
 -	Corrected a problem with delayed message notifications.  
