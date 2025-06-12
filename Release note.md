@@ -28,14 +28,14 @@ Protect your account with **passkeys**, which uses biometric authentication such
   	 
  This setting hide your activity from particular people while seeing the onlins status of others, based on your preferences.  
  **Note:** if you don’t share your last seen or online status you will not able to see when other people were last seen or online  
- #### 📞 **Custom backgrounds, Filters, effects for Video Calls**  
+ ### 📞 **Custom backgrounds, Filters, effects for Video Calls**  
  Now you can personalize your video calls on WhatsApp with **backgrounds, visual effects and filters.** Whether you are in a professional meeting or casual chat, you can express for every mood, from serious to silly.  
  To use this feature, click **background, filters, effects** icon during a call.  
 <div align="centre">
   <img src="https://github.com/user-attachments/assets/70b47c8d-f97e-4a84-85fb-add59311d35e" alt="icon" width="300" height="300" />
 </div>
 
- #### 🎵 **Add Music to Your Status**  
+ ### 🎵 **Add Music to Your Status**  
  You can Add music to your WhatsApp status update by adding music. Wheather you are sharing a moment , photo, or a message.  
  **How to use:**  
 1.	Go to **update**
