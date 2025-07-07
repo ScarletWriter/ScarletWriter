@@ -4,7 +4,7 @@
 Hello! I'm passionate **Technical Writer** with 3 years of experience in creating clear, concise and user friendly documentation. It help users to understand complex information easily.
 </p>
 <p align=center>
-<img src=https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif width=800 height=350
+<img src=https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif width=700 height=350
 </p>  
 
 ---
